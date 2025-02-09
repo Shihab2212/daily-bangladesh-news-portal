@@ -155,3 +155,40 @@ hr.devider {
     margin-top: 20px;
     font-size: 14px;
 }
+
+/* card row 3 start */
+
+.card-row-3 .card-img {
+    width: 140px;
+    float: right;
+    margin-left: 20px;
+}
+/* card row 3 end */
+
+/* 3nd-section start */
+.amar-desh a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.amar-desh a:hover {
+    color: green;
+}
+hr.devider-line {
+    height: 4px;
+    width: 232px;
+    background: #f36139;
+    opacity: 1;
+    margin-top: -10px;
+    
+}
+
+.section-3 img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.section-3 h4:hover {
+    color: red;
+}
+/* 3nd-section end */

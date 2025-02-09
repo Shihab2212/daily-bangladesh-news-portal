@@ -1,0 +1,52 @@
+.offcanvas {
+    width: 100px;
+}
+
+.dropdown-menu .dropdown-item {
+    color: black;
+}
+
+.offcanvas {
+    --bs-offcanvas-width: 45%;
+    display: block;
+
+    color: black;
+    --bs-offcanvas-bg: rgb(255, 243, 243);
+
+
+}
+
+.offcanvas-nav {
+    color: green;
+}
+
+.offcanvas-nav li a {
+    color: #0f0f0fd1;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+}
+
+.offcanvas-nav li a:hover {
+    color: red;
+}
+
+body {
+    background: #ffffff;
+}
+/* .one {
+    background: #ffffff;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+} */
+
+.offcanvas-icon {
+    display: flex;
+    padding-bottom: 14px;
+}
